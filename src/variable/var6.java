@@ -6,6 +6,6 @@ public class var6 {
         //이 변수들은 지역 변수
         //Var6.class를 보면 자동으로 최적화하여 초기화가 안된 변수는 제거해버림.
         int a;
-        System.out.println(a);
+        //System.out.println(a);
     }
 }
